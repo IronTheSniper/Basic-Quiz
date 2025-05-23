@@ -1,2 +1,8 @@
-# Basic Quiz
-A simple Python quiz app that asks the user 3 questions. Tracks score and provides feedback.
+# Beginner Python Projects
+
+This repo is a collection of my beginner Python projects.
+
+## Current Projects
+- Basic Quiz — A simple quiz program to practice Python basics.
+
+More projects coming soon!
